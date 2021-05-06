@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lotus Demo</string>
+    <string name="server_uri">http://192.168.43.239:3000</string>
+    <string name="profile_user_id">Your ID</string>
+    <string name="profile_share_id">Share your ID</string>
+    <string name="profile_fragment_title">Profile</string>
+    <string name="connect_fragment_title">Connect</string>
+    <string name="setting_fragment_title">Setting</string>
+    <string name="connect_parter_id">Parter ID</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="offline">&#160;&#160;Not ready. Check your Internet connection</string>
+    <string name="title_activity_in_call">InCallActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
